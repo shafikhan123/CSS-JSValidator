@@ -2,7 +2,8 @@
 CSS/SCSS/LESS/JavaScript validation rule for easy code quality check.  
 
 #prerequisite
-Make sure node js install in the system
+1. Make sure node js install in the system
+2. Install stylelint globally (npm install stylelint -g)
 
 #Set up guideline
 1. Download the repo

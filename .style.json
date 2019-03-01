@@ -2,7 +2,7 @@
 	"plugins": [
 		"stylelint-order",
 		"stylelint-scss",
-    "stylelint-csstree-validator",
+    "stylelint-csstree-validator"
 	],"exclude": [
       "core/**",
       "modules/**",
