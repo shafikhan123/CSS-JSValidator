@@ -1,5 +1,8 @@
-# CSS-JSValidator
+# CSS-JS Code Quality Validator
 CSS/SCSS/LESS/JavaScript validation rule for easy code quality check.  
+
+#prerequisite
+Make sure node js install in the system
 
 #Set up guideline
 1. Download the repo
